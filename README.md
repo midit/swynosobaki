@@ -29,6 +29,6 @@ This project is a Telegram bot that provides statistics on russian losses in Ukr
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License and Build
-![AppVeyor Build](https://img.shields.io/appveyor/build/midit/swynosobaki)
+## License
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
