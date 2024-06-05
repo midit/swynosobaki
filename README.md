@@ -31,5 +31,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License and Build
 
-[![Build Status](https://img.shields.io/travis/midit/swynosobaki.svg)](https://travis-ci.org/midit/swynosobaki)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
